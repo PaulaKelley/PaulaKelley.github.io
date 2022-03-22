@@ -1,0 +1,12 @@
+.logo header{
+    background-color: dimgray;
+    width: auto;
+    height:100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.background {
+    width: auto;
+    height: auto;
+}
